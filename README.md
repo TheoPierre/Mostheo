@@ -1,13 +1,13 @@
 
 ## Bonjour ! 👋, I'm Théo Pierre
 
-**French web developper 🥖**
+**French web developper**
 
 
 
 
 ## 🤯 Skills
-👩‍💻 I'm currently working on **Tailwind, JavaScript**
+👩‍💻 I'm currently working on **JavaScript and Wordpress project**
 
 🧠 I'm currently learning **Nestjs, TypeScript and React**
 
